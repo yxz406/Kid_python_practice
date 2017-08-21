@@ -1,0 +1,3 @@
+print("one week has N minuters? " )
+print("N = " , 7*24*60)
+
