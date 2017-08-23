@@ -1,0 +1,4 @@
+import urllib2
+file = urllib2.urlopen("https://www.google.com.hk")
+message = file.read()
+print(message)
